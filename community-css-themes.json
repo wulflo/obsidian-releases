@@ -2776,4 +2776,11 @@
     "screenshot": "screenshots/spy-terminal-atmosphere.png",
     "modes": ["dark"]
   }
+  {
+    "name": "Universitario",
+    "author": "Wulflo",
+    "repo": "wulflo/obsidian-universitario",
+    "screenshot": "portada.jpg",
+    "modes": ["dark", "light"]
+  }
 ]
